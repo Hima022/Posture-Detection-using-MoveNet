@@ -13,6 +13,8 @@ PSEUDO CODE:
 7. Draw the identified landmarks on a white background as well as the original frame.
 8. Show both the blank image with pose landmarks and the original frame with landmarks.
 9. When the video stops or a termination key is pushed, the loop will stop.
+# PUBLISHED PAPER
+https://ijirt.org/publishedpaper/IJIRT171529_PAPER.pdf
 
 ![image](https://github.com/user-attachments/assets/2ee30b47-ab20-424d-a7b9-d615e37771f6)
 
